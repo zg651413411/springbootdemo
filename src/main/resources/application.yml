@@ -16,5 +16,5 @@ spring:
 
   jpa:
       hibernate:
-        ddl-auto: update  # 第一次建表create  后面用update
+        ddl-auto: update  # 绗竴娆″缓琛ㄧ敤create  鍚庨潰鐢╱pdate
       show-sql: true
